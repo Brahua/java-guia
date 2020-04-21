@@ -1,19 +1,15 @@
 /target/
 
-/nbproject
-/build
-/test
-/.idea
-
 .settings
 .classpath
 .project
 *.class
-*.xml
-*.mf
-*.iml
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
 
-# Mobile Tools for Java (J2ME)
+# Mobile Tools for Java
 .mtj.tmp/
 
 # Package Files #
